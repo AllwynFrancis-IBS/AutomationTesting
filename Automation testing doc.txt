@@ -1,0 +1,26 @@
+JOB DESCRIPTION
+IBS software is looking for Automation Testing experts, with at least 5 years for experience in Automation Testing with strong experience in Selenium, Java and SOAP UI.
+Experience: 
+5-8 years in Selenium automation tool with Java is must with good communication skills
+Knowledge and hands on in Automation Framework definition and creation
+Identifying the test cases that are candidates for Automation
+Automation Test scripting using Selenium & TestNG
+Automation Test Execution and Test Result Analysis
+Maintenance of test scripts
+Hands on experience in Selenium and debugging the selenium scripts
+Hand on experience in automating webservices using SoapUI
+Hands on experience in configuring CI tools like Jenkins or Maven, and ANT build tool
+Knowledge on API automation
+Hands on experience with estimation and project management
+Working on knowledge on Devops is added Advantange
+Responsibilities include
+Identify and define the Automation test scenarios based on the requirements
+Automation test approach defining
+Good scripting knowledge in Java, TestNG
+Good knowledge about Webservices automation using SoapUI
+Designing automation test scripts
+Defect reporting and analysis
+Automation execution report preparation/recommendation
+Identify candidates for automation
+Involve in feasibility study conducting POC
+Maintenance of the scripts
